@@ -1,0 +1,11 @@
+{
+    "name": "extension-api-docs-crawler",
+    "private": true,
+    "version": "1.0.0",
+    "description": "Crawl WebExtensions API Docs",
+    "author": "Bill Kudo <bluesky42624@gmail.com> (https://www.WhatsYourIdea.com)",
+    "license": "AGPL-3.0-only",
+    "dependencies": {
+        "puppeteer": "^1.11.0"
+    }
+}
